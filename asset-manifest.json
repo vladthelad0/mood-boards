@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mood-boards/static/css/main.0a333b9c.css",
+    "main.js": "/mood-boards/static/js/main.f928951a.js",
+    "static/js/952.73b44c6d.chunk.js": "/mood-boards/static/js/952.73b44c6d.chunk.js",
+    "static/js/453.12979947.chunk.js": "/mood-boards/static/js/453.12979947.chunk.js",
+    "index.html": "/mood-boards/index.html",
+    "main.0a333b9c.css.map": "/mood-boards/static/css/main.0a333b9c.css.map",
+    "main.f928951a.js.map": "/mood-boards/static/js/main.f928951a.js.map",
+    "952.73b44c6d.chunk.js.map": "/mood-boards/static/js/952.73b44c6d.chunk.js.map",
+    "453.12979947.chunk.js.map": "/mood-boards/static/js/453.12979947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a333b9c.css",
+    "static/js/main.f928951a.js"
+  ]
+}
